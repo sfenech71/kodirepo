@@ -1,37 +1,37 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo=""group-title="General",TVM
-http://80.79.6.221:25461/smash/public/19
-#EXTINF:-1 tvg-logo=""group-title="General",One
-http://80.79.6.221:25461/smash/public/21
-#EXTINF:-1 tvg-logo=""group-title="General",One (link 2)
-https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="General",NET
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sfenech71/kodirepo/refs/heads/main/playlist/tv/logos/malta/net-mt.png"group-title="General",NET
 http://80.79.6.221:25461/smash/public/22
-#EXTINF:-1 tvg-logo=""group-title="General",Smash TV
-http://80.79.6.221:25461/smash/public/1
-#EXTINF:-1 tvg-logo=""group-title="News",TVM News+
-http://80.79.6.221:25461/smash/public/20
-#EXTINF:-1 tvg-logo=""group-title="News",Smash 7News
-http://80.79.6.221:25461/smash/public/16
-#EXTINF:-1 tvg-logo=""group-title="Music",Smash Arabija
-http://80.79.6.221:25461/smash/public/18
-#EXTINF:-1 tvg-logo=""group-title="Music",Smash Country
-http://80.79.6.221:25461/smash/public/11
-#EXTINF:-1 tvg-logo=""group-title="Music",Smash House of Rock
-http://80.79.6.221:25461/smash/public/12
-#EXTINF:-1 tvg-logo=""group-title="Music",Smash Music
-http://80.79.6.221:25461/smash/public/10
-#EXTINF:-1 tvg-logo=""group-title="Documentary",Smash Explore
-http://80.79.6.221:25461/smash/public/17
-#EXTINF:-1 tvg-logo=""group-title="Food",Smash Food
-http://80.79.6.221:25461/smash/public/9
-#EXTINF:-1 tvg-logo=""group-title="Talk Show",Smash FitHealth
-http://80.79.6.221:25461/smash/public/5
-#EXTINF:-1 tvg-logo=""group-title="Talk Show",Smash Talk
-http://80.79.6.221:25461/smash/public/15
-#EXTINF:-1 tvg-logo=""group-title="Politics",Parliament TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sfenech71/kodirepo/refs/heads/main/playlist/tv/logos/malta/one-mt.png"group-title="General",One
+http://80.79.6.221:25461/smash/public/21
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sfenech71/kodirepo/refs/heads/main/playlist/tv/logos/malta/one-mt.png"group-title="General",One (link 2)
+https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sfenech71/kodirepo/refs/heads/main/playlist/tv/logos/malta/parlament-tv.png"group-title="Politics",Parliament TV
 http://80.79.6.221:25461/smash/public/23
-#EXTINF:-1 tvg-logo=""group-title="Teleshopping",Smash Teleshopping
-http://80.79.6.221:25461/smash/public/2?checkedby:iptvcat.net
-#EXTINF:-1 tvg-logo=""group-title="Radio",Smash Radio 104.6FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sfenech71/kodirepo/refs/heads/main/playlist/tv/logos/malta/smash-mt.png"group-title="News",Smash 7News
+http://80.79.6.221:25461/smash/public/16
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sfenech71/kodirepo/refs/heads/main/playlist/tv/logos/malta/smash-mt.png"group-title="Music",Smash Arabija
+http://80.79.6.221:25461/smash/public/18
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sfenech71/kodirepo/refs/heads/main/playlist/tv/logos/malta/smash-mt.png"group-title="Music",Smash Country
+http://80.79.6.221:25461/smash/public/11
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sfenech71/kodirepo/refs/heads/main/playlist/tv/logos/malta/smash-mt.png"group-title="Documentary",Smash Explore
+http://80.79.6.221:25461/smash/public/17
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sfenech71/kodirepo/refs/heads/main/playlist/tv/logos/malta/smash-mt.png"group-title="Talk Show",Smash FitHealth
+http://80.79.6.221:25461/smash/public/5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sfenech71/kodirepo/refs/heads/main/playlist/tv/logos/malta/smash-mt.png"group-title="Food",Smash Food
+http://80.79.6.221:25461/smash/public/9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sfenech71/kodirepo/refs/heads/main/playlist/tv/logos/malta/smash-mt.png"group-title="Music",Smash House of Rock
+http://80.79.6.221:25461/smash/public/12
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sfenech71/kodirepo/refs/heads/main/playlist/tv/logos/malta/smash-mt.png"group-title="Music",Smash Music
+http://80.79.6.221:25461/smash/public/10
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sfenech71/kodirepo/refs/heads/main/playlist/tv/logos/malta/smash-radio.png"group-title="Radio",Smash Radio 104.6FM
 http://80.79.6.221:25461/smash/public/3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sfenech71/kodirepo/refs/heads/main/playlist/tv/logos/malta/smash-mt.png"group-title="Talk Show",Smash Talk
+http://80.79.6.221:25461/smash/public/15
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sfenech71/kodirepo/refs/heads/main/playlist/tv/logos/malta/smash-mt.png"group-title="Teleshopping",Smash Teleshopping
+http://80.79.6.221:25461/smash/public/2?checkedby:iptvcat.net
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sfenech71/kodirepo/refs/heads/main/playlist/tv/logos/malta/smash-mt.png"group-title="General",Smash TV
+http://80.79.6.221:25461/smash/public/1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sfenech71/kodirepo/refs/heads/main/playlist/tv/logos/malta/tvm-mt.png"group-title="General",TVM
+http://80.79.6.221:25461/smash/public/19
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sfenech71/kodirepo/refs/heads/main/playlist/tv/logos/malta/tvm-mt.png"group-title="News",TVM News+
+http://80.79.6.221:25461/smash/public/20
