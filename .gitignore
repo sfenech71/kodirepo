@@ -1,3 +1,5 @@
 *.bak
 playlist/tv/stanleyiptv_org.m3u
 playlist/tv/stanleyiptv_org_cleaned.m3u
+playlist/tv/stanleyiptv_test.m3u
+playlist/tv/stanleyiptv_error.m3u
