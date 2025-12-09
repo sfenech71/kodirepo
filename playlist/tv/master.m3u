@@ -3,24 +3,17 @@
 #EXTINF:-1 group-title="English speaking channels",IPTV-Org English speaking
 https://iptv-org.github.io/iptv/languages/eng.m3u
 
-#EXTINF:-1 group-title="US Channels",IPTV-Org – Channels from the United States
+#EXTINF:-1 group-title="US Channels",IPTV-Org Channels from the United States
 https://iptv-org.github.io/iptv/countries/us.m3u
 
-#EXTINF:-1 group-title="UK Channels",IPTV-Org – Channels from the United Kingdom
+#EXTINF:-1 group-title="UK Channels",IPTV-Org Channels from the United Kingdom
 https://iptv-org.github.io/iptv/countries/uk.m3u
 
-#EXTINF:-1 group-title="Canadian Channels",IPTV-Org – Channels from Canada
+#EXTINF:-1 group-title="Canadian Channels",IPTV-Org Channels from Canada
 https://iptv-org.github.io/iptv/countries/ca.m3u
 
-#EXTINF:-1 group-title="European Channels",IPTV-Org – Channels from across Europe
+#EXTINF:-1 group-title="European Channels",IPTV-Org Channels from across Europe
 https://iptv-org.github.io/iptv/regions/eur.m3u
 
-#EXTINF:-1 group-title="Latin American Channels",IPTV-Org – Channels from Latin America
+#EXTINF:-1 group-title="Latin American Channels",IPTV-Org Channels from Latin America
 https://iptv-org.github.io/iptv/regions/latam.m3u
-
-#EXTINF:-1 group-title="Free-TV Channels",Free-TV
-https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
-
-#EXTINF:-1 group-title="Smash/Maltese Free TV",Free-TV
-http://freetv.pro
-
